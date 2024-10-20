@@ -1,0 +1,14 @@
+@media(max-width: 750px) {
+
+   .caixa-conteudo{
+
+    max-width: 10px;
+    padding-left: none;
+    margin-right: 50px;
+    padding: 30px;
+    justify-content: space-between;
+    display: flex;
+    
+   }
+
+}
